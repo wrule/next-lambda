@@ -21,6 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>你好，这里是来自边缘的鸡毛</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
